@@ -1,0 +1,1 @@
+# all-custom-rom-for-tab-a7-lite
