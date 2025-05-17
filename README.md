@@ -35,4 +35,4 @@ https://github.com/kaii-lb/treble_manifest/releases/download/v1.3/EverestOS_1_6_
 # VoltageOS A15
 https://github.com/cawilliamson/treble_voltage/releases/tag/4.2-20250408.114626
 
-#warning : all custom rom not working : headphone,sms(4g,)
+# warning : all custom rom not working : headphone,sms(4g,)
