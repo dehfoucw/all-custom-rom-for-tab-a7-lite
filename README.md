@@ -1,4 +1,6 @@
 # A-list-of-custom-rom-for-tab-a7-lite
+#ArrowOS 13.1 A13
+https://github.com/naz664/ArrowOS_gsi/releases/download/v2023.10.28/ArrowOS-13.1-arm64_bgN-Unofficial.img.xz
 # PixelExperience 12.1 A12
 https://github.com/ponces/treble_build_pe/releases/download/v416/PixelExperience_arm64-ab-slim-12.1-20221117-UNOFFICIAL.img.xz
 # ineage os 20 (unoffical) A13
