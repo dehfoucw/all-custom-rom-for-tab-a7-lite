@@ -1,4 +1,6 @@
-# all-custom-rom-for-tab-a7-lite
+# A-list-of-custom-rom-for-tab-a7-lite
+# PixelExperience 12.1 A12
+https://github.com/ponces/treble_build_pe/releases/download/v416/PixelExperience_arm64-ab-slim-12.1-20221117-UNOFFICIAL.img.xz
 # ineage os 20 (unoffical) A13
 https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/lineage-20.0-20250221-UNOFFICIAL-arm64_bvN.img.gz/download
 # SparkOS A13
