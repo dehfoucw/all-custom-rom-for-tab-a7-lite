@@ -1,5 +1,5 @@
 # A-list-of-custom-rom-for-tab-a7-lite
-#ArrowOS 13.1 A13
+# ArrowOS 13.1 A13
 https://github.com/naz664/ArrowOS_gsi/releases/download/v2023.10.28/ArrowOS-13.1-arm64_bgN-Unofficial.img.xz
 # PixelExperience 12.1 A12
 https://github.com/ponces/treble_build_pe/releases/download/v416/PixelExperience_arm64-ab-slim-12.1-20221117-UNOFFICIAL.img.xz
@@ -15,3 +15,4 @@ https://github.com/ponces/treble_aosp/releases/download/v2024.11.08/aosp-arm64-a
 https://github.com/kaii-lb/treble_manifest/releases/download/v1.3/EverestOS_1_6_arm64_bvN.img.xz
 # VoltageOS A15
 https://github.com/cawilliamson/treble_voltage/releases/tag/4.2-20250408.114626
+#warning : all custom rom not working : headphone,sms(4g,)
