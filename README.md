@@ -1,14 +1,15 @@
 # A-list-of-custom-rom-for-tab-a7-lite
-# Pixel Experience 13.0 A13
-https://github.com/ponces/treble_build_pe/releases/tag/v2022.09.27
-# ArrowOS 13.1 A13
-https://github.com/naz664/ArrowOS_gsi/releases/download/v2023.10.28/ArrowOS-13.1-arm64_bgN-Unofficial.img.xz
+# ----------------------------------------------
 # NitrogenOS 12.1 A12
 https://downloads.sourceforge.net/project/thegsis/NitrogenOS/NitrogenOS-12.1-UNOFFICIAL-arm64_bgN-lite-secure.img.xz?ts=gAAAAABoKJU6ut2EL204B5xVQ1rUzwq0sw7CYCyc3Xmkhetvn63cqD8dPaL68cZ8Ybdwj6Mk03QzFLKCcP6V3z-mVHW438ofxg%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fthegsis%2Ffiles%2FNitrogenOS%2FNitrogenOS-12.1-UNOFFICIAL-arm64_bgN-lite-secure.img.xz%2Fdownload
 # AOSP A12 (not tested)
 https://github.com/phhusson/treble_experimentations/releases/download/v416/system-squeak-arm64-ab-floss.img.xz 
 # PixelExperience 12.1 A12
 https://github.com/ponces/treble_build_pe/releases/download/v416/PixelExperience_arm64-ab-slim-12.1-20221117-UNOFFICIAL.img.xz
+# Pixel Experience 13.0 A13
+https://github.com/ponces/treble_build_pe/releases/tag/v2022.09.27
+# ArrowOS 13.1 A13
+https://github.com/naz664/ArrowOS_gsi/releases/download/v2023.10.28/ArrowOS-13.1-arm64_bgN-Unofficial.img.x
 # bananadroid a13 (no gapps)
 https://sourceforge.net/projects/thegsis/files/BananaDroid/20052023/system.img.xz/download
 # crDroid-9.5 A13 
