@@ -16,12 +16,12 @@ https://sourceforge.net/projects/thegsis/files/BananaDroid/20052023/system.img.x
  (link error)
 # lineage-20.0 a13 (vnklite not working)
   https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/
-# RiceDroid
+# RiceDroid A13
  https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/ARM64/
 # aosp a13 (no gapps)
 system : https://github.com/TrebleDroid/treble_experimentations/releases/download/ci-20230324/system-td-arm64-ab-vndklite-vanilla.img.xz
 gapps : https://xdaforums.com/attachments/microg-unofficial-installer-v1-3-1-5-alpha-by-ale5000-signed-zip.5941995/
-# ineage os 20 (unoffical) A13
+# ineage os 20 (unoffical) A13 
 https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/lineage-20.0-20250221-UNOFFICIAL-arm64_bvN.img.gz/download  (not working)
 # SparkOS A13
 https://github.com/naz664/SparkOS_gsi/releases/download/v2023.02.13/SparkOS-13.5-arm64_bvN-Unofficial.img.xz
