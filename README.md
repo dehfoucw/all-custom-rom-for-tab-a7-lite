@@ -35,5 +35,5 @@ https://github.com/ponces/treble_aosp/releases/download/v2024.11.08/aosp-arm64-a
 https://github.com/kaii-lb/treble_manifest/releases/download/v1.3/EverestOS_1_6_arm64_bvN.img.xz
 # VoltageOS A15
 https://github.com/cawilliamson/treble_voltage/releases/tag/4.2-20250408.114626
-
-# warning : all custom rom not working : headphone,sms(4g,)
+# how to install : https://xdaforums.com/t/guide-gsi-installing-lineage-os-twrp-hide-warnings.4725091/
+warning : all custom rom not working : headphone,sms(4g,)
