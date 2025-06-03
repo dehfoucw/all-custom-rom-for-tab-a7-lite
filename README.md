@@ -2,7 +2,7 @@
 # ----------------------------------------------
 # NitrogenOS 12.1 A12
 https://downloads.sourceforge.net/project/thegsis/NitrogenOS/NitrogenOS-12.1-UNOFFICIAL-arm64_bgN-lite-secure.img.xz?ts=gAAAAABoKJU6ut2EL204B5xVQ1rUzwq0sw7CYCyc3Xmkhetvn63cqD8dPaL68cZ8Ybdwj6Mk03QzFLKCcP6V3z-mVHW438ofxg%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fthegsis%2Ffiles%2FNitrogenOS%2FNitrogenOS-12.1-UNOFFICIAL-arm64_bgN-lite-secure.img.xz%2Fdownload
-# AOSP A12 (not tested)
+# AOSP A12 
 https://github.com/phhusson/treble_experimentations/releases/download/v416/system-squeak-arm64-ab-floss.img.xz 
 # PixelExperience 12.1 A12
 https://github.com/ponces/treble_build_pe/releases/download/v416/PixelExperience_arm64-ab-slim-12.1-20221117-UNOFFICIAL.img.xz
@@ -18,7 +18,7 @@ https://sourceforge.net/projects/thegsis/files/BananaDroid/20052023/system.img.x
   https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/
 # RiceDroid A13
  https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/ARM64/
-# aosp a13 (no gapps)
+# aosp a13 
 system : https://github.com/TrebleDroid/treble_experimentations/releases/download/ci-20230324/system-td-arm64-ab-vndklite-vanilla.img.xz
 gapps : https://xdaforums.com/attachments/microg-unofficial-installer-v1-3-1-5-alpha-by-ale5000-signed-zip.5941995/
 # ineage os 20 (unoffical) A13 
